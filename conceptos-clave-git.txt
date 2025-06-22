@@ -1,0 +1,17 @@
+Conceptos clave de GIT
+
+1) git init – Iniciar un repositorio
+2) git clone – Clonar un repositorio remoto
+3) git status – Ver el estado actual del repositorio
+4) git add – Preparar archivos para commit
+5) git commit  – Guardar cambios en el historial
+6) git push – Subir commits al repositorio remoto
+7) git pull – Descargar y fusionar cambios del remoto
+8) git branch – Ver y crear ramas
+9) git checkout || git switch – Cambiar de rama
+10) git merge – Fusionar ramas
+11) git log – Ver historial de commits
+12) git revert – Revertir un commit (sin borrar el historial)
+13) git reset – Volver a un estado anterior (puede borrar commits)
+14) .gitignore – Ignorar archivos específicos
+15) Pull Request – Solicitar revisión y fusión de código
